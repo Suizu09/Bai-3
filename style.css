@@ -62,7 +62,7 @@
 .navbar button {
     width: auto !important;
     height: auto !important;
-    background-color: #b9b7b7 !important;
+    background-color: #e8e6e6 !important;
     color: #000000 !important;
     border: 1px solid #7d7a7a !important;
     border-radius: 2px !important;
@@ -166,6 +166,7 @@
     font-size:  15px;
     display: flex;
     gap: 10000px;
+    padding-left: 10px
 }
 
 .form-row select {
@@ -187,7 +188,7 @@ textarea {
 .form-row select {
     background-color: #fff;
     cursor: pointer;
-
+    padding-left: 10px
 }
 
 .radio-group {
@@ -265,7 +266,7 @@ textarea {
 
 .event-desc {
     color: #ffffff;
-    font-size: 15%;
+    font-size: 15px;
     line-height: 1.4;
     margin: 0;
 }
