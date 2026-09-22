@@ -253,7 +253,7 @@ textarea {
 
 .event-desc {
     color: #ffffff;
-    font-size: 15px;
+    font-size: 15%;
     line-height: 1.4;
     margin: 0;
 }
@@ -302,7 +302,7 @@ textarea {
     justify-content: right;
     align-items: right;
     grid-column: 3; 
-    width: 300px;
+    width: 97%;
     padding-left: 20px;
 }
 
