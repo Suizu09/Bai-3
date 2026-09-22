@@ -319,9 +319,15 @@ textarea {
 }
 
 .main {
-    display: grid !important;
-    grid-template-columns: 230px minmax(0, 1fr) 310px !important;
-    gap: 20px !important;
-    width: 100% !important;
-    box-sizing: border-box !important;
+    display: grid;
+    grid-template-columns: 230px minmax(0, 1fr) 310px !;
+    gap: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.search-container button {
+    width: 15px;
+    height: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
